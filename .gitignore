@@ -2,6 +2,5 @@
 .netlify
 /webfonts
 /slider
-/images
 .gitignore
 /asset/images
