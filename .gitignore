@@ -1,6 +1,6 @@
 # Local Netlify folder
 .netlify
 /webfonts
-/asset
 /slider
 /images
+.gitignore
