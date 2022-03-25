@@ -5,4 +5,5 @@
 /images
 .gitignore
 /asset/images
-/asset/js
+/asset/js/lib
+/asset/js/map-cluster
